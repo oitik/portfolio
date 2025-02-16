@@ -3,8 +3,8 @@ import sidebar from "../database/sidebar.json";
 const Sidebar = () => {
   return (
     <div className="flex flex-col justify-start items-center gap-8 pt-8">
-      <div className="h-40 w-40 rounded-full p-2 border border-gray-200">
-        <img src="/public/avatar.png" className="w-full h-full" />
+      <div className="h-40 w-40 rounded-full p-2 border border-gray-300 overflow-hidden p-2">
+        <img src="/portfolio/public/avatar.jpg" className="object-center scale-[1.2]" />
       </div>
 
       <div className="w-full pl-20">

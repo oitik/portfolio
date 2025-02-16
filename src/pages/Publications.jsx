@@ -20,7 +20,7 @@ const Publications = () => {
                   <a href={item.paper_url} className="text-[#00008b] leading-4">
                     <TextFormatter text={item.title} />
                   </a>
-                  <div className="flex justify-start items-start gap-3">
+                  <div className="flex flex-wrap gap-x-2">
                     {item.authors.map((_item, _index) => {
                       return (
                         <a
@@ -28,7 +28,7 @@ const Publications = () => {
                           className={_index === 0 ? "font-medium" : ""}
                           key={_index}>
                           {_item.name}
-                          {item.authors.length !== _index + 1 ? "," : ""}
+                          {item.authors.length !== _index + 1 ? ", " : ""}
                         </a>
                       );
                     })}

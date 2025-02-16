@@ -7,6 +7,7 @@ import { education } from "../database/education.json";
 import { recentUpdates } from "../database/recent-updates.json";
 import InfoSection from "../components/InfoSection";
 
+
 const Home = () => {
   return (
     <div>

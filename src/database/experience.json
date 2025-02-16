@@ -1,0 +1,34 @@
+{
+    "experiences": [
+      {
+        "title": "Research Assistant",
+        "company": "[Young Learners Research Lab](https://web.facebook.com/aysrizon.ylrl)",
+        "duration": "Jan 2023 - Present",
+        "description": "Conducting research on NLP and deep learning, with a focus on improving model efficiency and explainability. Primarily working with Bengali data, an underexplored domain, alongside English datasets. Published multiple conference and journal articles, with ongoing research in progress."
+      },
+      {
+        "title": "Research Assistant",
+        "company": "Computational Linguistics Research Lab",
+        "duration": "June 2023 - Present",
+        "description": "Conducting research in computational linguistics, focusing on word embeddings in literary texts, contextual embeddings, topic modeling, and stylometric analysis of writers. Projects include analyzing American slave narratives, exploring linguistic patterns, and advancing NLP techniques for literary research."
+      },
+      {
+        "title": "AI Trainer (Coder Training)",
+        "company": "Remotask",
+        "duration": "January 2023 - August 2023",
+        "description": "Trained AI models by providing high-quality data annotations, improving model performance in various tasks such as problem solving, text processing, and language understanding."
+      },
+      {
+        "title": "AI Trainer, Contributor & Quality Control",
+        "company": "Outlier",
+        "duration": "February 2024 - Present",
+        "description": "Worked on AI model training, contributing to dataset creation and refining model outputs. Ensured data quality by performing detailed quality control checks on AI-generated content."
+      },
+      {        
+        "title": "Teacher",
+        "company": "University Student",
+        "duration": "February 2024 - Present",
+        "description": "nothiing"
+      }
+    ]
+  }

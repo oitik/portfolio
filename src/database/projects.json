@@ -1,0 +1,21 @@
+{
+    "projects": [
+    {
+      "title": "Heart Disease Prediction",
+      "description": "Developed a machine learning model to predict heart disease using patient health data. Implemented data preprocessing, feature selection, and various classification algorithms to improve prediction accuracy."
+    },
+    {
+      "title": "YouTube Data Analysis",
+      "description": "Created a script to collect and analyze YouTube video metadata such as views, likes, and comments using the YouTube Data API. Performed data visualization and trend analysis."
+    },
+    {
+      "title": "Esports Sentiment Analysis",
+      "description": "Implemented NLP techniques to analyze sentiment in live esports chat messages. Used BERT-based models for sentiment classification and topic modeling."
+    },
+    {
+      "title": "Blockchain-Based Transparent System for PHQ",
+      "description": "Designed a blockchain-based system to ensure transparency and accountability within Bangladesh Police Headquarters (PHQ). Utilized smart contracts to automate data verification."
+    }
+]
+}
+  

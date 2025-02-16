@@ -1,13 +1,12 @@
 {
-    "name": "Montasir Mahmud",
-    "description": "Student of Computer Science and Engineering",
+    "name": "Tanbeer Jubaer",
+    "description": "Student, Learner, Researcher",
     "locations": [
-        "Dhaka, Bangladesh",
         "Rajshahi, Banglesh"
     ],
-    "email": "mmcse19@gmail.com",
-    "linkedin": "https://linkedin.com/in/mmcse19",
-    "github": "https://github.com/techbeeyt",
-    "googleScholar": "",
-    "kaggle": ""
+    "email": "tanbeerjubaer@gmail.com",
+    "linkedin": "https://linkedin.com/in/tanbeer-jubaer",
+    "github": "https://github.com/oitik",
+    "googleScholar": "https://scholar.google.com/citations?user=-BiMpWoAAAAJ&hl=en",
+    "kaggle": "https://www.kaggle.com/tanbeerjubaer"
 }

@@ -12,11 +12,23 @@ const Header = () => {
           <li>
             <Link to="/publications">Publications</Link>
           </li>
-          <li>Research & Developed Artifacts</li>
-          <li>Experience</li>
-          <li>Teaching & Services</li>
-          <li>Awards</li>
-          <li>CV</li>
+          <li>
+              <Link to="/projects">Projects</Link>
+          </li>
+          <li>
+              <Link to="/experiences">Experience</Link>
+          </li>
+          <li>
+            <Link to="/teaching-services">Teaching & Services</Link>
+          </li>
+          <li>
+            <Link to="/awards">Awards</Link>
+          </li>
+          <li>
+            <Link to="/cv">CV</Link>
+          </li>
+
+
         </ul>
       </div>
     </div>

@@ -1,0 +1,17 @@
+{
+    "teaching": [
+      {
+        "title": "Adjunct Lecturer",
+        "institution": "University of XYZ",
+        "duration": "2021 - Present",
+        "description": "Teaching courses on Natural Language Processing, Data Structures, and Algorithms. Supervising student projects and lab sessions to enhance practical learning."
+      },
+      {
+        "title": "Teaching Assistant",
+        "institution": "ABC Institute",
+        "duration": "2019 - 2021",
+        "description": "Assisted in tutorials and grading for undergraduate courses, contributing to improved learning outcomes and academic support."
+      }
+    ]
+  }
+  
