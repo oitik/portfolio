@@ -12,7 +12,7 @@ import CV from "./pages/CV"; // Import CV page
 
 function App() {
   return (
-    <div className="cormorant-garamond-regular text-lg">
+    <div className="cormorant-garamond-regular text-lg min-w-[1280px]">
       <Header />
       <div className="grid grid-cols-12">
         <div className="col-span-3">

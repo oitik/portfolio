@@ -1,21 +1,96 @@
 {
-    "projects": [
+  "projects": [
     {
-      "title": "Heart Disease Prediction",
-      "description": "Developed a machine learning model to predict heart disease using patient health data. Implemented data preprocessing, feature selection, and various classification algorithms to improve prediction accuracy."
+      "title": "Temperature Prediction using Different ML and DL Algorithms",
+      "year": "2023-24",
+      "description": [
+        "Developed a temperature prediction system using multiple machine learning and deep learning algorithms.",
+        "Implemented various regression models like Linear Regression, Random Forest, and Neural Networks to predict temperature."
+      ],
+      "tools": "Python, Scikit-learn, TensorFlow, Keras, Pandas, Numpy"
     },
     {
-      "title": "YouTube Data Analysis",
-      "description": "Created a script to collect and analyze YouTube video metadata such as views, likes, and comments using the YouTube Data API. Performed data visualization and trend analysis."
+      "title": "Amount of Sale Prediction in a Super Shop named Amana",
+      "year": "2023-24",
+      "description": [
+        "Developed a predictive model to forecast sales in a super shop using historical data.",
+        "Used time series analysis and models like ARIMA, Random Forest, and Gradient Boosting for predictions."
+      ],
+      "tools": "Python, Scikit-learn, Pandas, Numpy, Matplotlib"
     },
     {
-      "title": "Esports Sentiment Analysis",
-      "description": "Implemented NLP techniques to analyze sentiment in live esports chat messages. Used BERT-based models for sentiment classification and topic modeling."
+      "title": "Emotion Detection from Audio Data Using Transfer Learning",
+      "year": "2024",
+      "description": [
+        "Implemented a transfer learning model to detect emotions from audio data.",
+        "Leveraged pre-trained models like VGGish and fine-tuned them on emotion-labeled audio clips."
+      ],
+      "tools": "Python, TensorFlow, Keras, Librosa, Transfer Learning Models"
     },
     {
-      "title": "Blockchain-Based Transparent System for PHQ",
-      "description": "Designed a blockchain-based system to ensure transparency and accountability within Bangladesh Police Headquarters (PHQ). Utilized smart contracts to automate data verification."
+      "title": "Authorship Attribution using Statistical technique Markov model",
+      "year": "2023-24",
+      "description": [
+        "Developed a statistical model for authorship attribution based on writing style.",
+        "Used Markov Model to analyze trends in writing style such as sentence length, punctuation usage."
+      ],
+      "tools": "Python, NLTK, Scikit-learn, Pandas"
+    },
+    {
+      "title": "Filtering IMDb Movie Review System with BERT Model",
+      "year": "2022-23",
+      "description": [
+        "Built a movie review filtering system using BERT-based transformer models.",
+        "Classified reviews into 4 categories: excellent, good, average, bad.",
+        "Compared BERT with traditional models like RFC, LR, XGBoost."
+      ],
+      "tools": "Python, Hugging Face Transformers, BERT, Scikit-learn"
+    },
+    {
+      "title": "Sarcasm Detection in Bengali Language using Deep Learning",
+      "year": "2022-23",
+      "description": [
+        "Applied custom BERT model with bi-LSTM and self-supervised learning (MLM) to detect sarcasm in Bangla.",
+        "Achieved 82% accuracy, highest among existing studies."
+      ],
+      "tools": "Python, Hugging Face Transformers, BERT, Scikit-learn, LSTM"
+    },
+    {
+      "title": "Saint Common Detection using Transfer Learning",
+      "year": "2022-23",
+      "description": [
+        "Used Bangla-Blend Dataset with custom BERT models and self-supervised learning (MLM).",
+        "Achieved 97% accuracy, a significant achievement in NLP."
+      ],
+      "tools": "Python, Hugging Face Transformers, BERT, Scikit-learn, LSTM"
+    },
+    {
+      "title": "IPA transcription in Bengali Language",
+      "year": "2022-23",
+      "description": [
+        "Trained a seq-to-seq model to translate Bangla Text to IPA.",
+        "Built a custom function to handle corner cases for improved performance."
+      ],
+      "tools": "Python, Hugging Face, T5"
+    },
+    {
+      "title": "Local Dialect Translation using Machine Learning",
+      "year": "2022-23",
+      "description": [
+        "Trained BanglaT5 model on ONUBAD dataset for regional dialect to standard Bangla translation.",
+        "Achieved a WER of 0.09."
+      ],
+      "tools": "Python, Hugging Face, T5"
+    },
+    {
+      "title": "Erosion-Deposition Detection using ML Models",
+      "year": "2025",
+      "description": [
+        "Led a project under Lab of Oitik with two Civil Engineering students.",
+        "Developed models for detecting erosion and deposition patterns.",
+        "Boosting algorithms achieved R² scores of 0.95 (erosion) and 0.97 (deposition)."
+      ],
+      "tools": "Python, Scikit-learn, Random Forest, Boosting Algorithms"
     }
-]
+  ]
 }
-  
